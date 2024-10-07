@@ -1,5 +1,5 @@
-# MMIU
-Homepage of MMIU: Multimodal Multi-image Understanding for Evaluating Multimodal Large Language Models.
+# PhyGenBenvh
+Homepage of PhyGenBench: **Phy**sics **Gen**eration **Bench**mark 
 
  This website is adapted from [MMT-Bench](https://mmt-bench.github.io/), [MMMU](https://mmmu-benchmark.github.io/), [Nerfies](https://nerfies.github.io) and [MathVista](https://mathvista.github.io/).
 
